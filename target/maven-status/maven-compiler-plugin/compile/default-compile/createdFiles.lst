@@ -1,0 +1,7 @@
+com\monitoring\ui\web\rest\controller\StringResponse.class
+com\monitoring\ui\domain\ListResult.class
+com\monitoring\ui\web\rest\controller\WebMvcConfiguration.class
+com\monitoring\ui\web\rest\service\Command.class
+com\monitoring\ui\web\rest\controller\RemoteController.class
+com\monitoring\ui\web\rest\service\VirtualMachine.class
+com\monitoring\ui\UiApplication.class
